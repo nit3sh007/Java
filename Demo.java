@@ -16,3 +16,17 @@ class Demo {
         
     }    
 }
+
+
+/* Escape character
+\n - new line
+\t - hotizontal Tab
+\r - carriage teturn
+\b - backspace
+\f - form feed
+\' - single quote
+\"" - double quote
+\\ = back space
+
+
+ */
