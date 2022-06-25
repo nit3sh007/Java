@@ -5,7 +5,6 @@ public class LOOP1 {
                 System.out.println(i);
 
         }
-        
         }
         
     }
