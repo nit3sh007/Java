@@ -1,6 +1,8 @@
+import java.util.Scanner;
+
 public class number {
     public static void main(String args[]) {
-        int i = 37;
+  /*       int i = 37;
         int j=10;
         double x= (double)i/j;
         String A= "A";
@@ -12,8 +14,13 @@ public class number {
         System.out.println(i-j); // sub
         System.out.println(i*j); //multi
         System.out.println(A+b); //string
-        System.out.println(x); //division 
-        
+        System.out.println(x); //division   */
+
+
+
+
+
+
     }
     
 }
