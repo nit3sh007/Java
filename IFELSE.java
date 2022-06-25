@@ -10,7 +10,7 @@ public class IFELSE {
         System.out.println("allowed for vote"+ age);
 
     }else{
-        System.out.println("not allowed");
+        System.out.println("notallowed");
     }
 
     }
